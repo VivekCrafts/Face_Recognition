@@ -1,10 +1,9 @@
-In this project, we classify sports personalities. We restrict classification to only 5 people,(use your image datasets)
-
-Maria Sharapova
-Serena Williams
-Virat Kohli
-Roger Federer
-Lionel Messi
+In this project, we classify sports personalities. We restrict classification to only 5 people(use your image datasets),
+1.Maria Sharapova
+2.Serena Williams
+3.Virat Kohli
+4.Roger Federer
+5.Lionel Messi
 
 Technologies used in this project,
 Python
